@@ -10,5 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Responsive",
+    "portfolio",
+    "website"
+  ]
 }
